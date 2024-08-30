@@ -1,0 +1,105 @@
+{
+  "ButtonLenguage": {
+    "English" : "English",
+    "Spanish" : "Spanish"
+  },
+  "AppNavigationLink": {
+    "landing": "Landing",
+    "account": "Account",
+    "work": "Work",
+    "blog": "Blog"
+  },
+  "AppDropdownMenu": {
+    "dropdownMenu": "Dropdown Menu",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "AppContact": {
+    "contactUs": {
+      "title": "Contact Us",
+      "subtitle": "We would love to talk about how we can help you.",
+      "form": {
+        "title": "Fill out the form",
+        "fields": {
+          "firstName": "First Name",
+          "lastName": "Last Name",
+          "email": "Email",
+          "phoneNumber": "Phone Number",
+          "details": "Details"
+        },
+        "fieldsPlaceholder": {
+          "firstNamePlaceholder": "First Name",
+          "lastNamePlaceholder": "Last Name",
+          "emailPlaceholder": "Email",
+          "phoneNumberPlaceholder": "Phone Number",
+          "detailsPlaceholder": "Details"
+        },
+        "submitButton": "Submit Inquiry",
+        "responseTime": "We will get back to you within 1-5 business days."
+      },
+      "knowledgeBase": {
+        "title": "Knowledge Base",
+        "description": "We're here to help with any questions or code you might have.",
+        "contactLink": {
+          "text": "Contact Support"
+        }
+      },
+      "faq": {
+        "title": "FAQ",
+        "description": "Check our frequently asked questions to find answers to everything you might ask.",
+        "faqLink": {
+          "text": "Frequently Asked Questions"
+        }
+      },
+      "emailContact": {
+        "title": "Contact Us via Email",
+        "description": "If you prefer to email us, please use the address",
+        "email": "example@site.com"
+      }
+    }
+  },
+  "AppFeatures": {
+    "features": {
+      "statsOne": {
+        "title": "Accuracy rate",
+        "value": "99.95%",
+        "description": "in fulfilling orders"
+      },
+      "statsTwo": {
+        "title": "Startup businesses",
+        "value": "2,000+",
+        "description": "partner with Voluntario"
+      },
+      "statsThree": {
+        "title": "Happy customer",
+        "value": "85%",
+        "description": "this year alone"
+      }
+    }
+  },
+  "AppFooter": {
+    "Brand": "Brand",
+    "Product": {
+      "title":"Product",
+      "Pricing": "Pricing",
+      "Changelog": "Changelog",
+      "Docs": "Docs"
+    },
+    "Company": {
+      "title": "Company",
+      "About": "About us",
+      "Blog" : "Blog",
+      "Careers": "Careers",
+      "description": "We're hiring",
+      "Customers" : "Customers"
+    },
+    "description": "Stay up to date",
+    "copyrigth": "© 2022 Voluntario. All rights reserved.",
+    "form": {
+      "title": "Subscribe",
+      "Subscribe": "Subscribe",
+      "description": "New UI kits or big discounts. Never spam."
+    }
+  }, 
+  "AppHero" : {}
+}

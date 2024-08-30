@@ -5,48 +5,48 @@
     <!-- Grid -->
     <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-6">
       <div class="col-span-full lg:col-span-1">
-        <a class="flex-none text-xl font-semibold text-white focus:outline-none focus:opacity-80" href="#" aria-label="Brand">Brand</a>
+        <a class="flex-none text-xl font-semibold text-white focus:outline-none focus:opacity-80" href="#" aria-label="Brand">{{ $t('AppFooter.Brand') }}</a>
       </div>
       <!-- End Col -->
 
       <div class="col-span-1">
-        <h4 class="font-semibold text-gray-100">Product</h4>
+        <h4 class="font-semibold text-gray-100">{{ $t('AppFooter.Product.title') }}</h4>
 
         <div class="mt-3 grid space-y-3">
-          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">Pricing</a></p>
-          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">Changelog</a></p>
-          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">Docs</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">{{ $t('AppFooter.Product.Pricing') }}</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">{{ $t('AppFooter.Product.Changelog') }}</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">{{ $t('AppFooter.Product.Docs') }}</a></p>
         </div>
       </div>
       <!-- End Col -->
 
       <div class="col-span-1">
-        <h4 class="font-semibold text-gray-100">Company</h4>
+        <h4 class="font-semibold text-gray-100">{{ $t('AppFooter.Company.title') }}</h4>
 
         <div class="mt-3 grid space-y-3">
-          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">About us</a></p>
-          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">Blog</a></p>
-          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">Careers</a> <span class="inline-block ms-1 text-xs bg-blue-700 text-white py-1 px-2 rounded-lg">We're hiring</span></p>
-          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">Customers</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">{{ $t('AppFooter.Company.About') }}</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">{{ $t('AppFooter.Company.Blog') }}</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">{{ $t('AppFooter.Company.Careers') }}</a> <span class="inline-block ms-1 text-xs bg-blue-700 text-white py-1 px-2 rounded-lg">{{ $t('AppFooter.Company.description') }}</span></p>
+          <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 focus:outline-none focus:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="#">{{ $t('AppFooter.Company.Customers') }}</a></p>
         </div>
       </div>
       <!-- End Col -->
 
       <div class="col-span-2">
-        <h4 class="font-semibold text-gray-100">Stay up to date</h4>
+        <h4 class="font-semibold text-gray-100">{{ $t('AppFooter.description') }}</h4>
 
         <form>
           <div class="mt-4 flex flex-col items-center gap-2 sm:flex-row sm:gap-3 bg-white rounded-lg p-2 dark:bg-neutral-900">
             <div class="w-full">
-              <label for="hero-input" class="sr-only">Subscribe</label>
+              <label for="hero-input" class="sr-only">{{ $t('AppFooter.form.title') }}</label>
               <input type="text" id="hero-input" name="hero-input" class="py-3 px-4 block w-full border-transparent rounded-lg text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-transparent dark:text-neutral-400 dark:placeholder-neutral-500 dark:focus:ring-neutral-600" placeholder="Enter your email">
             </div>
             <a class="w-full sm:w-auto whitespace-nowrap p-3 inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 focus:outline-none focus:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none" href="#">
-              Subscribe
+              {{ $t('AppFooter.form.Subscribe') }}
             </a>
           </div>
           <p class="mt-3 text-sm text-gray-400">
-            New UI kits or big discounts. Never spam.
+            {{ $t('AppFooter.form.description') }}
           </p>
         </form>
       </div>
@@ -56,7 +56,7 @@
 
     <div class="mt-5 sm:mt-12 grid gap-y-2 sm:gap-y-0 sm:flex sm:justify-between sm:items-center">
       <div class="flex justify-between items-center">
-        <p class="text-sm text-gray-400 dark:text-neutral-400">© 2022 Preline. All rights reserved.</p>
+        <p class="text-sm text-gray-400 dark:text-neutral-400">  {{ $t('AppFooter.copyrigth') }}</p>
       </div>
       <!-- End Col -->
 
@@ -95,13 +95,16 @@
 <!-- ========== END FOOTER ========== -->
 </template>
 
-<script>
 
+
+
+<script>
+import { useI18n } from 'vue-i18n';
 
 export default {
-  components: {
-  /*   name: 'App', */
-  
-  },
+    setup() {
+        const { t } = useI18n();
+        return { t };
+    }
 };
 </script>

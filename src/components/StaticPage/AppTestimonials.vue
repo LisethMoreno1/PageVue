@@ -81,7 +81,7 @@
               2x
             </div>
             <p class="text-sm sm:text-base text-gray-600 dark:text-neutral-400">
-              faster than previous Preline versions
+              faster than previous Voluntario versions
             </p>
           </li>
         </ul>

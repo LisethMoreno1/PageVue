@@ -7,6 +7,8 @@ const routes = [
   { path: '/MainPage', component: MainPage },
   { path: '/', component: AppSidebar },
 
+
+
 ];
 
 const router = createRouter({

@@ -6,7 +6,7 @@
             <div class="me-5 lg:me-0 lg:hidden">
                 <!-- Logo -->
                 <a class="flex-none rounded-md text-xl inline-block font-semibold focus:outline-none focus:opacity-80"
-                    href="#" aria-label="Preline">
+                    href="#" aria-label="Voluntario">
                     <svg class="w-28 h-auto" width="116" height="32" viewBox="0 0 116 32" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -238,7 +238,7 @@
             <div class="px-6 pt-4">
                 <!-- Logo -->
                 <a class="flex-none rounded-xl text-xl inline-block font-semibold focus:outline-none focus:opacity-80"
-                    href="#" aria-label="Preline">
+                    href="#" aria-label="Voluntario">
                     <svg class="w-28 h-auto" width="116" height="32" viewBox="0 0 116 32" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
                         <path

@@ -1,0 +1,105 @@
+{
+  "ButtonLenguage": {
+    "English": "Ingles",
+    "Spanish": "Español"
+  },
+  "AppNavigationLink": {
+    "landing": "Inicio",
+    "account": "Cuenta",
+    "work": "Trabajo",
+    "blog": "Blog"
+  },
+  "AppDropdownMenu": {
+    "dropdownMenu": "Menú desplegable",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "AppContact": {
+    "contactUs": {
+      "title": "Contáctenos",
+      "subtitle": "Nos encantaría hablar sobre cómo podemos ayudarle.",
+      "form": {
+        "title": "Rellenar el formulario",
+        "fields": {
+          "firstName": "Nombre",
+          "lastName": "Apellido",
+          "email": "Correo Electrónico",
+          "phoneNumber": "Número de teléfono",
+          "details": "Detalles"
+        },
+        "fieldsPlaceholder": {
+          "firstNamePlaceholder": "Nombre",
+          "lastNamePlaceholder": "Apellido",
+          "emailPlaceholder": "Correo Electrónico",
+          "phoneNumberPlaceholder": "Número de teléfono",
+          "detailsPlaceholder": "Detalles"
+        },
+        "submitButton": "Enviar consulta",
+        "responseTime": "Le responderemos en 1-5 días laborables."
+      },
+      "knowledgeBase": {
+        "title": "Base de conocimientos",
+        "description": "Estamos aquí para ayudarle con cualquier pregunta o código.",
+        "contactLink": {
+          "text": "Contactar con el servicio de asistencia"
+        }
+      },
+      "faq": {
+        "title": "FAQ",
+        "description": "Busque en nuestras preguntas frecuentes para encontrar respuestas a todo lo que pueda preguntar.",
+        "faqLink": {
+          "text": "Preguntas frecuentes"
+        }
+      },
+      "emailContact": {
+        "title": "Contáctenos por correo electrónico",
+        "description": "Si prefiere escribirnos un correo electrónico, utilice la dirección",
+        "email": "example@site.com"
+      }
+    }
+  },
+  "AppFeatures": {
+    "features": {
+      "statsOne": {
+        "title": "Tasa de precisión",
+        "value": "99.95%",
+        "description": "En el cumplimiento de pedidos"
+      },
+      "statsTwo": {
+        "title": "Empresas emergentes",
+        "value": "2,000+",
+        "description": "Colaboran con Voluntario"
+      },
+      "statsThree": {
+        "title": "Clientes satisfechos",
+        "value": "85%",
+        "description": "Solo este año"
+      }
+    }
+  },
+  "AppFooter": {
+    "Brand": "Marca",
+    "Product": {
+      "title": "Producto",
+      "Pricing": "Precios",
+      "Changelog": "Registro de cambios",
+      "Docs": "Documentación"
+    },
+    "Company": {
+      "title": "Empresa",
+      "About": "Sobre nosotros",
+      "Blog": "Blog",
+      "Careers": "Carreras",
+      "description": "Estamos contratando",
+      "Customers": "Clientes"
+    },
+    "description": "Mantente al tanto",
+    "copyrigth": "© 2022 Voluntario. Todos los derechos reservados.",
+    "form": {
+      "title": "Suscríbete",
+      "Subscribe": "Suscribirse",
+      "description": "Nuevos kits de interfaz o grandes descuentos. Nunca spam."
+    }
+  },
+  "AppHero": {}
+}

@@ -1,5 +1,4 @@
 <template>
-
     <!-- Masonry Cards -->
 <div class="max-w-6xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
   <!-- Grid -->
@@ -60,7 +59,7 @@
         </div>
         <div class="absolute bottom-0 start-0 end-0 p-2 sm:p-4">
           <div class="text-sm font-semibold text-gray-800 rounded-lg bg-white p-4 md:text-xl dark:bg-neutral-800 dark:text-neutral-200">
-            Data at Preline
+            Data at Voluntario
           </div>
         </div>
       </a>

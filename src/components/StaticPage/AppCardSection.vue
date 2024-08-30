@@ -16,7 +16,7 @@
                                 <div class="grow">
                                     <h3
                                         class="group-hover:text-blue-600 font-semibold text-gray-800 dark:group-hover:text-neutral-400 dark:text-neutral-200">
-                                        London, UK
+                                       Barranquilla,Col
                                     </h3>
                                 </div>
                             </div>
@@ -47,7 +47,7 @@
                                 <div class="grow">
                                     <h3
                                         class="group-hover:text-blue-600 font-semibold text-gray-800 dark:group-hover:text-neutral-400 dark:text-neutral-200">
-                                        Bristol, UK
+                                       Cali, Col
                                     </h3>
                                 </div>
                             </div>
@@ -78,7 +78,7 @@
                                 <div class="grow">
                                     <h3
                                         class="group-hover:text-blue-600 font-semibold text-gray-800 dark:group-hover:text-neutral-400 dark:text-neutral-200">
-                                        Oxford, UK
+                                        Bogota, Col
                                     </h3>
                                 </div>
                             </div>
@@ -109,7 +109,7 @@
                                 <div class="grow">
                                     <h3
                                         class="group-hover:text-blue-600 font-semibold text-gray-800 dark:group-hover:text-neutral-400 dark:text-neutral-200">
-                                        Edinburgh, UK
+                                      Panama, Pa
                                     </h3>
                                 </div>
                             </div>

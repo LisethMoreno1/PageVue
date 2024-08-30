@@ -4,7 +4,7 @@
         <div class="mt-4">
             <h2 class="text-xl font-semibold">{{ title }}</h2>
             <p class="mt-2 text-gray-600">{{ content }}</p>
-            <slot></slot> <!-- Para contenido adicional -->
+            <slot></slot> 
         </div>
     </div>
 </template>

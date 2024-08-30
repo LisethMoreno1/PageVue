@@ -16,7 +16,6 @@ import NavigationLinks from '@/components/StaticPage/AppNavigationLinks.vue';
 
 export default {
   components: {
-    /*   name: 'AppHeader', */
     LogoButton,
     NavigationLinks,
 

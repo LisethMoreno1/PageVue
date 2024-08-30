@@ -4,10 +4,8 @@
             <AppHeader />
         </header>
         <main class="flex-1">
-            <!-- Aquí va tu contenido principal -->
             <AppHero />
             <hr class="max-w-[85rem] mx-auto border-t border-gray-600 opacity-20 my-4" />
-
             <AppPrograms />
             <hr class="max-w-[85rem] mx-auto border-t border-gray-600 opacity-20 my-4" />
             <AppFeatures />
