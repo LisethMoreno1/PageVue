@@ -1,11 +1,16 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import MainPage from '@/components/pages/MainPage';
-import AppSidebar from '@/components/Layout/AppSidebar.vue';
+import MainDashboard from '@/components/pages/MainDashboard';
+import MainLogin from '@/components/pages/MainLogin';
+
+
 
 
 const routes = [
   { path: '/MainPage', component: MainPage },
-  { path: '/', component: AppSidebar },
+  { path: '/', component: MainDashboard },
+  { path: '/Login', component: MainLogin },
+
 
 
 

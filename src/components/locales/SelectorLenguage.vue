@@ -4,7 +4,7 @@
       <button @click="changeLanguage('en')" class="text-sm text-blue-500 hover:underline">  {{ $t('ButtonLenguage.English') }}</button>
       <button @click="changeLanguage('es')" class="text-sm text-blue-500 hover:underline">  {{ $t('ButtonLenguage.Spanish') }}</button>
     </div>
-  </template>
+</template>
   
   <script>
   import { GlobeAltIcon } from '@heroicons/vue/outline';
